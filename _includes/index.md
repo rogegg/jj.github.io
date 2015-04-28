@@ -1,31 +1,22 @@
 
-## A page to point to them all
 
-A few of the projects [I have in GitHub](http://github.com/JJ),
-anyways.
+Estudiante de cuarto curso Grado en Ingeniería Informática en la [ETSIIT](http://etsiit.ugr.es/), Universidad de Granada.
+Puedes encontrar mis proyectos en mi página de github [rogegg](http://github.com/rogegg).
 
-## A few tutorials, most of them in Spanish
+## Proyectos Grado en Ingeniería informática
 
-* [Introducción a Ruby](http://jj.github.io/ruby-para-impacientes)
-* [Curso de JavaScript](https://github.com/JJ/curso-js)
+* [Diseño de aplicaciones para internet](https://github.com/rogegg/desarrolloAplicacionesInternet)
+* [Sistemas multimedia](https://github.com/rogegg/Sistemas_Multimedia)
+* [Tecnologías web](https://github.com/rogegg/Tecnologias_Web)
+* [Infraestructura virtual](https://github.com/rogegg/IV-GII-13-14)
 
-## Some other tutorials I participate in
+## Contacto
 
-* [Curso de Git](https://github.com/oslugr/curso-git)
+![Roge](roge.png)
+Github: [rogegg](http://github.com/rogegg)
+Gmail: [sk8roge@gmail.com](sk8roge@gmail.com)
+Twitter: [@RogeGg](https://twitter.com/RogeGg)
 
-## La asignatura que enseño en la [ETSIIT](http://etsiit.ugr.es)
-
-[Infraestructura Virtual](http://jj.github.io/IV/), un poco de
-computación nube.
-
-## My open source novels
-
-* [Manuel the Magnificent Mechanical Man](http://jj.github.io/hoborg),
-  in English
-
-## ObPicture
-
-![JJ Merelo](jj.png)
 
 ## Based on
 
