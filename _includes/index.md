@@ -12,7 +12,7 @@ Puedes encontrar mis proyectos en mi página de github [rogegg](http://github.co
 
 ## Contacto
 
-![Roge](roge.png)
+![Roge](rogegg.png)
 
 Github: [rogegg](http://github.com/rogegg)
 
