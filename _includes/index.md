@@ -16,7 +16,7 @@ Puedes encontrar mis proyectos en mi página de github [rogegg](http://github.co
 
 Github: [rogegg](http://github.com/rogegg)
 
-Gmail: [sk8roge@gmail.com](sk8roge@gmail.com)
+Gmail: [sk8roge@gmail.com](mailto:sk8roge@gmail.com)
 
 Twitter: [@RogeGg](https://twitter.com/RogeGg)
 
