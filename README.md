@@ -1,4 +1,4 @@
-# JJ Merelo pages
+# Roge Gil García page
 
 A repo for my GitHub personal page.
 
