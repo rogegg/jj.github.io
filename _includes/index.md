@@ -3,12 +3,19 @@
 Estudiante de cuarto curso Grado en Ingeniería Informática en la [ETSIIT](http://etsiit.ugr.es/), Universidad de Granada.
 Puedes encontrar mis proyectos en mi página de github [rogegg](http://github.com/rogegg).
 
-## Proyectos Grado en Ingeniería informática
+## Proyectos del Grado en Ingeniería informática
 
 * [Diseño de aplicaciones para internet](https://github.com/rogegg/desarrolloAplicacionesInternet)
 * [Sistemas multimedia](https://github.com/rogegg/Sistemas_Multimedia)
 * [Tecnologías web](https://github.com/rogegg/Tecnologias_Web)
 * [Infraestructura virtual](https://github.com/rogegg/IV-GII-13-14)
+
+## Proyectos en el marco laboral
+* [iOrg](http://org-empresas.rhcloud.com/)
+  Aplicación móvil y web de apoyo a la docencia para el Departamento de [Organización de Empresas](http://organizacionempresas.ugr.es/)
+  Repositorios:
+   - [Repositorio General](https://github.com/rogegg/OrganizacionEmpresas)
+   - [Código fuente](https://github.com/rogegg/app-org-empresas)
 
 ## Contacto
 
@@ -16,7 +23,7 @@ Puedes encontrar mis proyectos en mi página de github [rogegg](http://github.co
 
 Github: [rogegg](http://github.com/rogegg)
 
-Gmail: [sk8roge@gmail.com](mailto:sk8roge@gmail.com)
+Gmail: [sk8roge@gmail.com](mailto:ggarciaroge@gmail.com)
 
 Twitter: [@RogeGg](https://twitter.com/RogeGg)
 
