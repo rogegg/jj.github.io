@@ -1,4 +1,4 @@
-
+![Roge](http://rogegg.github.io/rogegg.jpg)
 
 Estudiante de cuarto curso Grado en Ingeniería Informática en la [ETSIIT](http://etsiit.ugr.es/), Universidad de Granada.
 Puedes encontrar mis proyectos en mi página de github [rogegg](http://github.com/rogegg).
@@ -19,8 +19,6 @@ Puedes encontrar mis proyectos en mi página de github [rogegg](http://github.co
    - [Código fuente](https://github.com/rogegg/app-org-empresas)
 
 ## Contacto
-
-![Roge](http://rogegg.github.io/rogegg.jpg)
 
 Github: [rogegg](http://github.com/rogegg)
 
