@@ -11,7 +11,7 @@ Puedes encontrar mis proyectos en mi página de github [rogegg](http://github.co
 * [Infraestructura virtual](https://github.com/rogegg/IV-GII-13-14)
 
 ## Proyectos en el marco laboral /
-### Beca ICARO con el Departamento de Organizacion de Empresas
+#### Beca ICARO con el Departamento de Organizacion de Empresas
 * [iOrg](http://org-empresas.rhcloud.com/)
   Aplicación móvil y web de apoyo a la docencia para el Departamento de [Organización de Empresas](http://organizacionempresas.ugr.es/)
   Repositorios:
